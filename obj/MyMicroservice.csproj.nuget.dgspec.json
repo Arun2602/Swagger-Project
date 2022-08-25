@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeyaprakash Narayan\\MyMicroservice\\MyMicroservice.csproj": {}
+    "C:\\Project\\MyMicroservice\\MyMicroservice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeyaprakash Narayan\\MyMicroservice\\MyMicroservice.csproj": {
+    "C:\\Project\\MyMicroservice\\MyMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeyaprakash Narayan\\MyMicroservice\\MyMicroservice.csproj",
+        "projectUniqueName": "C:\\Project\\MyMicroservice\\MyMicroservice.csproj",
         "projectName": "MyMicroservice",
-        "projectPath": "C:\\Users\\Jeyaprakash Narayan\\MyMicroservice\\MyMicroservice.csproj",
+        "projectPath": "C:\\Project\\MyMicroservice\\MyMicroservice.csproj",
         "packagesPath": "C:\\Users\\Jeyaprakash Narayan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeyaprakash Narayan\\MyMicroservice\\obj\\",
+        "outputPath": "C:\\Project\\MyMicroservice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jeyaprakash Narayan\\AppData\\Roaming\\NuGet\\NuGet.Config"

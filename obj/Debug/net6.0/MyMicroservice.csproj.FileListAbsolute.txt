@@ -25,3 +25,30 @@ C:\Users\Jeyaprakash Narayan\MyMicroservice\obj\Debug\net6.0\refint\MyMicroservi
 C:\Users\Jeyaprakash Narayan\MyMicroservice\obj\Debug\net6.0\MyMicroservice.pdb
 C:\Users\Jeyaprakash Narayan\MyMicroservice\obj\Debug\net6.0\MyMicroservice.genruntimeconfig.cache
 C:\Users\Jeyaprakash Narayan\MyMicroservice\obj\Debug\net6.0\ref\MyMicroservice.dll
+C:\Project\MyMicroservice\bin\Debug\net6.0\appsettings.Development.json
+C:\Project\MyMicroservice\bin\Debug\net6.0\appsettings.json
+C:\Project\MyMicroservice\bin\Debug\net6.0\MyMicroservice.exe
+C:\Project\MyMicroservice\bin\Debug\net6.0\MyMicroservice.deps.json
+C:\Project\MyMicroservice\bin\Debug\net6.0\MyMicroservice.runtimeconfig.json
+C:\Project\MyMicroservice\bin\Debug\net6.0\MyMicroservice.dll
+C:\Project\MyMicroservice\bin\Debug\net6.0\MyMicroservice.pdb
+C:\Project\MyMicroservice\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Project\MyMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project\MyMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project\MyMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project\MyMicroservice\obj\Debug\net6.0\MyMicroservice.csproj.AssemblyReference.cache
+C:\Project\MyMicroservice\obj\Debug\net6.0\MyMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\MyMicroservice\obj\Debug\net6.0\MyMicroservice.AssemblyInfoInputs.cache
+C:\Project\MyMicroservice\obj\Debug\net6.0\MyMicroservice.AssemblyInfo.cs
+C:\Project\MyMicroservice\obj\Debug\net6.0\MyMicroservice.csproj.CoreCompileInputs.cache
+C:\Project\MyMicroservice\obj\Debug\net6.0\MyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Project\MyMicroservice\obj\Debug\net6.0\MyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\MyMicroservice\obj\Debug\net6.0\staticwebassets.build.json
+C:\Project\MyMicroservice\obj\Debug\net6.0\staticwebassets.development.json
+C:\Project\MyMicroservice\obj\Debug\net6.0\scopedcss\bundle\MyMicroservice.styles.css
+C:\Project\MyMicroservice\obj\Debug\net6.0\MyMicroservice.csproj.CopyComplete
+C:\Project\MyMicroservice\obj\Debug\net6.0\MyMicroservice.dll
+C:\Project\MyMicroservice\obj\Debug\net6.0\refint\MyMicroservice.dll
+C:\Project\MyMicroservice\obj\Debug\net6.0\MyMicroservice.pdb
+C:\Project\MyMicroservice\obj\Debug\net6.0\MyMicroservice.genruntimeconfig.cache
+C:\Project\MyMicroservice\obj\Debug\net6.0\ref\MyMicroservice.dll
